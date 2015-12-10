@@ -1,9 +1,11 @@
 <?php 
 
-for ($i=0; $i<10; $i++){
-			echo $i;
-			echo "<br>";
-			}
+$nome = "mattia";
+
+for ($i=strlen($nome)-1; $i>=0; $i--){ 
+					echo $nome[$i];
+					
+					}
 
 
 
