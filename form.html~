@@ -1,0 +1,8 @@
+<html>
+	<form method = "post">
+		Come ti chiami?
+		<input name = "nomeutente" type = "text"/>
+		<input type = "submit" value = "GO!"/>
+	</form>
+
+</html>
